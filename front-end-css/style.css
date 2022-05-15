@@ -1,0 +1,28 @@
+.baslik {
+color:red;
+text-align:center;
+}
+
+.menu {
+text-align: center;  
+}
+
+.ortala{
+  text-align: center;
+}
+
+.italik{
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.list{
+  color:rgb(50, 50, 205);
+}
+
+.listorta{
+  list-style-position: inside;
+}
+
+body{
+  text-align: center;
+}
